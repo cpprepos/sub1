@@ -6,3 +6,8 @@ void printSub1()
 {
     std::cout<<"hello world!!!\n";
 }
+
+void setSub1()
+{
+    std::cout<<"hello world!!!\n";
+}
